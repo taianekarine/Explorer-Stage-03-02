@@ -42,7 +42,7 @@ https://www.figma.com/file/eh8DYWWhfOOwCv3jyatUJo/Explorer-Stage-03-Projeto-02-(
 
 - Introdução à responsividade;
 - Regra mobile-first;
-- Regra das unidades de medidas flexíveis;\
+- Regra das unidades de medidas flexíveis;
 
 ---
 
