@@ -44,6 +44,6 @@ https://www.figma.com/file/eh8DYWWhfOOwCv3jyatUJo/Explorer-Stage-03-Projeto-02-(
 - Regra mobile-first;
 - Regra das unidades de medidas flexíveis;
 
---
+
 
 Feito com 🧡 by Taiane Karine e Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
