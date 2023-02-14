@@ -2,7 +2,7 @@
 <h1 align="center"> Projeto - Responsividade </h1>
 
 <p align="center">
-Projeto desenvolvido durante as aulas e de acordo com o que foi visto nas aulas da fase 02 do Stage 03 do programa Explorer da Rocketseat referente a responsividade.
+Projeto desenvolvido durante as aulas e de acordo com o que foi visto nas aulas da segunda fase do Stage 03 do programa Explorer da Rocketseat referente a responsividade.
 </p>
 
 <p align="center">
